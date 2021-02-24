@@ -1,0 +1,13 @@
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.csprojAssemblyReference.cache
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.AssemblyInfoInputs.cache
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.AssemblyInfo.cs
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.csproj.CoreCompileInputs.cache
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.exe
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.deps.json
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.runtimeconfig.json
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.runtimeconfig.dev.json
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.dll
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\bin\Debug\netcoreapp3.1\My_First_Arrays.pdb
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.dll
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.pdb
+D:\C#_Projects\My_First_Arrays\My_First_Arrays\obj\Debug\netcoreapp3.1\My_First_Arrays.genruntimeconfig.cache

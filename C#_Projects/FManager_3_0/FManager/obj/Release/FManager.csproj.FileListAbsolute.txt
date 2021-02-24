@@ -1,0 +1,13 @@
+D:\WORK\VS projects\FManager_2_0\FManager\bin\Release\TrueFlowCleaner.exe.config
+D:\WORK\VS projects\FManager_2_0\FManager\bin\Release\TrueFlowCleaner.exe
+D:\WORK\VS projects\FManager_2_0\FManager\bin\Release\TrueFlowCleaner.pdb
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\ResolveAssemblyReference.cache
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\FManager.AboutBox1.resources
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\FManager.Form1.resources
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\FManager.Form3.resources
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\FManager.Properties.Resources.resources
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\FManager.SearchParamsForm.resources
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\ResGen.read.1.tlog
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\ResGen.write.1.tlog
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\TrueFlowCleaner.exe
+D:\WORK\VS projects\FManager_2_0\FManager\obj\Release\TrueFlowCleaner.pdb

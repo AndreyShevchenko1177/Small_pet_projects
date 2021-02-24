@@ -1,0 +1,13 @@
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.exe
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.deps.json
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.runtimeconfig.json
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.runtimeconfig.dev.json
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.dll
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\bin\Debug\netcoreapp3.1\MyFirstOOP.pdb
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.csprojAssemblyReference.cache
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.AssemblyInfoInputs.cache
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.AssemblyInfo.cs
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.csproj.CoreCompileInputs.cache
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.dll
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.pdb
+D:\C#_Projects\MyFirstOOP\MyFirstOOP\obj\Debug\netcoreapp3.1\MyFirstOOP.genruntimeconfig.cache

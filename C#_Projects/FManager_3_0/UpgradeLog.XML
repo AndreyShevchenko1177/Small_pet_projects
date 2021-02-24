@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FManager">
+</Property><Property Name="Solution File" Value="D:\WORK\VS projects\FManager\FManager.sln">
+</Property><Property Name="User Options File" Value="D:\WORK\VS projects\FManager\FManager.suo">
+</Property><Property Name="Date" Value="Wednesday, May 04, 2011">
+</Property><Property Name="Time" Value="16:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FManager.sln" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FManager.suo" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager.suo">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\FManager.csproj" Description="Project file successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\FManager.csproj">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Form1.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Form1.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Form1.Designer.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Program.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Program.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\SearchParamsForm.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\SearchParamsForm.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\SearchParamsForm.Designer.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\SearchParamsForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Settings.cs" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Settings.cs">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Properties\Settings.settings" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\app.config" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\app.config">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\Folders1.ico" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\Folders1.ico">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\FOLDER.ICO" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\FOLDER.ICO">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\delete_16x.ico" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\delete_16x.ico">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\rc_tif.ico" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\rc_tif.ico">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\folderopen.ico" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\folderopen.ico">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\Checkbox.png" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\Checkbox.png">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resources\Checkbox_unchecked.png" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resources\Checkbox_unchecked.png">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Resource_Bitmap.ico" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Resource_Bitmap.ico">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Form1.resx" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Form1.resx">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\Properties\Resources.resx" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\SearchParamsForm.resx" Description="File successfully backed up as D:\WORK\VS projects\FManager\Backup\FManager\SearchParamsForm.resx">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\FManager.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FManager" Source="FManager\FManager.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FManager.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FManager.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FManager" Source="FManager\FManager.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

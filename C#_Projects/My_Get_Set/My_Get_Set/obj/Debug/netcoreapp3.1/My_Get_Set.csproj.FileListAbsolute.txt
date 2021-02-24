@@ -1,0 +1,13 @@
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.exe
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.deps.json
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.runtimeconfig.json
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.runtimeconfig.dev.json
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.dll
+D:\C#_Projects\My_Get_Set\My_Get_Set\bin\Debug\netcoreapp3.1\My_Get_Set.pdb
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.csprojAssemblyReference.cache
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.AssemblyInfoInputs.cache
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.AssemblyInfo.cs
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.csproj.CoreCompileInputs.cache
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.dll
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.pdb
+D:\C#_Projects\My_Get_Set\My_Get_Set\obj\Debug\netcoreapp3.1\My_Get_Set.genruntimeconfig.cache

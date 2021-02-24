@@ -1,0 +1,13 @@
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.exe
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.deps.json
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.json
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.dev.json
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csprojAssemblyReference.cache
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfoInputs.cache
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfo.cs
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+D:\C#_Projects\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.genruntimeconfig.cache

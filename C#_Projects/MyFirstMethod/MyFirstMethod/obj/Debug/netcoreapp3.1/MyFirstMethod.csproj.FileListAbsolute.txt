@@ -1,0 +1,13 @@
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.exe
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.deps.json
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.runtimeconfig.json
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.runtimeconfig.dev.json
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.dll
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\bin\Debug\netcoreapp3.1\MyFirstMethod.pdb
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.csprojAssemblyReference.cache
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.AssemblyInfoInputs.cache
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.AssemblyInfo.cs
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.csproj.CoreCompileInputs.cache
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.dll
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.pdb
+D:\C#_Projects\MyFirstMethod\MyFirstMethod\obj\Debug\netcoreapp3.1\MyFirstMethod.genruntimeconfig.cache
