@@ -50,7 +50,7 @@ function minWalk(gridList, startX, startY, endX, endY) {
     let temp = 0;
     let minindex, min;
 
-    let set = new Set(Array.from(Array(size), () => temp++));
+    // let set = new Set(Array.from(Array(size), () => temp++));
 
     // let distance = Array(flatString.length); // минимальное расстояние
     let distance = []; // минимальное расстояние
