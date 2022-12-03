@@ -1,0 +1,25 @@
+.videoContainer {
+    border: 2px solid red;
+    /* width: 250px; */
+    height: 200px;
+    /* overflow: hidden; */
+}
+.vv {
+    /* width: 100%; */
+    height: 100%;
+    transition: 0.2s all;
+}
+
+.vv:hover{
+    border: 2px solid green;
+    transform: scale(1.2);
+    transition: 0.5s all;
+}
+
+
+
+#canvas-element:hover {
+    border: 2px solid blue;
+    transform: scale(1.2);
+    transition: 0.5s all;
+}

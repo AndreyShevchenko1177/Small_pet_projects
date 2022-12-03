@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="./index.css" rel="stylesheet" type="text/css">
+</head>
+
+<script defer src="./index.js"></script>
+
+<body>
+
+    <div id="video-demo-container">
+        <button id="upload-button">Select MP4 Video</button>
+        <input type="file" id="file-input" accept="video/mp4" />
+        <video id="video-element" controls>
+            <source type="video/mp4">
+        </video>
+        <canvas id="canvas-element"></canvas>
+        <div id="thumbnail-container">
+            Seek to
+            <select id="set-video-seconds">
+                <option value='0'>0</option>
+                <option value='4'>4</option>
+                <option value='8'>8</option>
+                <option value='16'>16</option>
+            </select>
+            seconds
+            <a id="download-link" href="#">Download Thumbnail</a>
+        </div>
+    </div>
+
+    <div>
+        <img crossorigin="anonymous" id="hiddenImg"/>
+    </div>
+
+    <div class="videoContainer" id="last">
+        <video class="vv" src="https://drive.google.com/uc?export=view&id=1Jr_6LCFkbyOzWwoNq0dY5ray70NDZKMc" controls></video>
+    </div>
+
+
+
+</body>
+
+
+
+
+</html>
