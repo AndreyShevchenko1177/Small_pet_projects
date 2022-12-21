@@ -1,0 +1,15 @@
+{
+    "compileOptions": {
+        "module": "commonjs",
+        "moImplicitAny": true,
+        "removeComments": true,
+        "sourceMap": true,
+    },
+    "include": [
+        "**/*"
+    ],
+    "exclude": [
+        "mode_modules",
+        "**/*.spec.ts"
+    ]
+}
