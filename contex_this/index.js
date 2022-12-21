@@ -21,3 +21,12 @@ function partial(func, ...argsBound) {
   user.sayNow("Hello");
   // Что-то вроде этого:
   // [10:00] John: Hello!
+
+
+let sum = function (a) {
+    if (!a) {
+      a=0
+      return 0
+    }
+    return (b)=>a + sum(b)
+}
