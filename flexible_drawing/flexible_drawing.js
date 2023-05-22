@@ -1,7 +1,8 @@
-const MIDDLE_BOTTOM_SRC = './img/middleBottom.png';
-const MIDDLE_TOP_SRC = './img/middleTop.png';
-const LEFT_SRC = './img/leftImg.png';
-const RIGHT_SRC = './img/rightImg.png';
+const MIDDLE_BOTTOM_SRC = './img/middleBottom_Photo.png';
+// const MIDDLE_TOP_SRC = './img/middleTop.png';
+const MIDDLE_TOP_SRC = '';
+const LEFT_SRC = './img/leftImg_Photo.png';
+const RIGHT_SRC = './img/rightImg_Photo.png';
 const PARENT_DRAWING_EL = document.getElementById('parentDrawing');
 const PARENT_CONTROL_EL = document.getElementById('parentControl');
 const PARENT_PRICE_EL = document.getElementById('parentPrice');
