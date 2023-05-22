@@ -17,7 +17,6 @@ function Control(
     {
         parentDrawEl,
         parentControlEl,
-        parentPriceEl,
         middleBottomSrc,
         middleTopSrc,
         leftSrc,
@@ -34,22 +33,22 @@ function Control(
     this.length = Math.round((maxLength + minLength) / 2);
     this.width = Math.round((maxWidth + minWidth) / 2);
     this.getValue = () => ({length: this.length, width: this.width});
-    this.price = parentPriceEl;
-    this.price.setValue = (value) => {
-        this.price.innerHTML = value;
-    };
+    this.price = minPrice;
+
 
     // Here is logic of making price
-    this.onchange = () => {
+    const changePrice = () => {
         const {length, width} = this.getValue();
         const minSquare = minLength * minWidth;
         const maxSquare = maxLength * maxWidth;
         const currentSquare = length * width;
         const ratio = (currentSquare - minSquare) / (maxSquare - minSquare);
         const newPrice = (Math.round((minPrice + ratio * (maxPrice - minPrice)) * 100) / 100).toFixed(2);
-        this.price.setValue(`${newPrice}`);
+        this.price = newPrice;
+        this.onchange();
     };
 
+    this.onchange = () => {}
 
     function MeasureControl(
         {
@@ -134,7 +133,7 @@ function Control(
         topCover.style.height = newTopCoverHeght;
         topImg.style.top = newTopCoverHeght;
         this.width = widthControl.getValue();
-        this.onchange();
+        changePrice();
     };
     widthControl.onChange();
 
@@ -152,7 +151,7 @@ function Control(
         newWidthPercent += '%';
         wrapperDrawing.style.width = newWidthPercent;
         this.length = lengthControl.getValue();
-        this.onchange();
+        changePrice();
     };
     lengthControl.onChange();
 
@@ -163,7 +162,6 @@ function Control(
 const flexibleDrawing = new Control({
     parentDrawEl: PARENT_DRAWING_EL,
     parentControlEl: PARENT_CONTROL_EL,
-    parentPriceEl: PARENT_PRICE_EL,
     middleBottomSrc: MIDDLE_BOTTOM_SRC,
     middleTopSrc: MIDDLE_TOP_SRC,
     leftSrc: LEFT_SRC,
@@ -177,6 +175,11 @@ const flexibleDrawing = new Control({
     maxPrice: MAX_PRICE
 });
 
+flexibleDrawing.onchange = () => {
+    PARENT_PRICE_EL.innerHTML = flexibleDrawing.price
+}
+
+flexibleDrawing.onchange()
 
 
 
