@@ -104,9 +104,10 @@
 .slider::-moz-range-thumb {
     width: 25px;
     height: 25px;
-    background: gray;
+    background: grey;
     cursor: pointer;
     border-radius: 50%;
+    transform: translateY(50%);
 }
 
 .legend {
